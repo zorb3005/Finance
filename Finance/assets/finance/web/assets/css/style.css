@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  outline: 0;
+  padding: 0 auto;
+}
+body{
+  background-color: #E6E9F0;
+  max-width: 100vw;
+}
+
+.text-hello{
+  margin-top: 30px;
+  margin-left: 10px;
+}
+
+.user_name{
+  font-weight: bold;
+  font-size: 22px;
+  color: #33333F;
+}
+
+.h4_usernm{
+  color: #33333F;
+  font-weight: 200;
+  font-size: 20px;
+  letter-spacing: 0.09em;
+}
+
+.card-ballance{
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0px 20px 20px #00000032;
+  padding-bottom: 20px;
+}
+
+.text-wallet{
+  margin-left: 17px;
+  padding-top: 30px;
+}
+
+.h5-wallet{
+  letter-spacing: 0.09em;
+  font-size: 16px;
+  color: #606060;
+}
+
+.money{
+  color: #3841B4;
+}
+
+.logomoney{
+  color: #ccc;
+  font-size: 18px;
+}
+
+.text-wallet .fa-arrow-down{
+  font-weight: 200;
+}
+
+.movement{
+  color: #ccc;
+  font-size: 12px;
+}
