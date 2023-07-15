@@ -1,0 +1,9 @@
+let userName = 'Danil Boberkov';
+let moneyCashh = 3045;
+let currency = '$';
+let currencyElement = document.getElementById("currency");
+let moneyCashhElement = document.getElementById("money_cash");
+let userNameElement = document.getElementById("user_name");
+currencyElement.innerHTML = currency;
+userNameElement.innerHTML = userName;
+moneyCashhElement.innerHTML = moneyCashh;
